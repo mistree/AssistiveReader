@@ -1,6 +1,7 @@
-AssistiveReader8
+AssistiveReader
 ================
 
-Efficient translator for win8
+transparent translator bar for win8
+Japanese->Chinese
 
-Using EasyHook + Go 
+Using Golang
